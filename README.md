@@ -5,12 +5,11 @@
   <h1>
     <a href="https://github.com/faustyna77/faustyna77">
     <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+
 </div>
     <h1>Hello I'm Faustyna</h1>
   </h1>
+  
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=faustyna77&label=Profile%20views&color=0e75b6&style=flat" alt="faustyna" /> </p>
@@ -160,6 +159,9 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/faustyna77-dev/count.svg" />
 </p>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 
 
 

@@ -1,12 +1,18 @@
 <p align="center">
-  <img src="assets/Bottom_up.svg">
+  
 </p>
 <div align="center">
   <h1>
     <a href="https://github.com/faustyna77/faustyna77">
+    <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
     <h1>Hello I'm Faustyna</h1>
   </h1>
 </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=faustyna77&label=Profile%20views&color=0e75b6&style=flat" alt="faustyna" /> </p>
 
 <p align="center">
@@ -16,7 +22,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/faustyna77">
-    <img src="img/zzz.jpg" alt="Portret" width="600">
+   <img src="img/zzz.png" alt="Portret" width="600" height="300">
   </a>
 </p>
 
@@ -124,7 +130,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/faustyna77">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+    
   </a>
 </p>
 </div>
@@ -135,9 +141,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
 
 <p align="center">
-    <a href="mailto:faustinmisiura@gmail.com">
-        <img src="img/Email.png" alt="Email">
-    </a>
+    <p><br> <br></p>
     <a href="https://www.linkedin.com/in/faustyna-misiura-b05943243/?originalSubdomain=pl">
         <img src="img/LikedIn.png" alt="LinkedIn">
     </a>
@@ -145,9 +149,8 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 <div align="center">
   <p align="center">
   <div>
-    <a href="https://www.linkedin.com/in/dawidolko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:poczta@dawidolko.pl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- 
+    <a href="https://www.linkedin.com/in/faustyna-misiura-b05943243/?originalSubdomain=pl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
    
   </div>
   </p>
@@ -158,17 +161,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   <img src="https://profile-counter.glitch.me/faustyna77-dev/count.svg" />
 </p>
 
-<p align="center">
-  <img src="img/eesa.gif">
-</p>
 
-<p align="center">
-  <img src="gitartwork.svg">
-</p>
-
-<p align="center">
-  <img src="assets/Bottom_down.svg">
-</p>
 
 
 

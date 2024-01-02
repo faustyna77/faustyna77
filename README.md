@@ -22,7 +22,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/faustyna77">
-   <img src="img/zzz.png" alt="Portret" width="600" height="300">
+   <img src="img/zzz.png" alt="Portret" width="600">
   </a>
 </p>
 
